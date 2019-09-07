@@ -17,6 +17,14 @@
 .hero-unit-btn{
   font-family: batma;
 }
+
+#register_button{
+  line-height: 20px;
+  position: relative;
+  top: 120px
+}
+
+
 #loadingg {
 
    width: 100%;
@@ -41,6 +49,8 @@ margin-left: -50px;
   top: 50%;
   left: 50%;
 }
+
+
 
 /*FOR LOGOS TANANANA*/
 .image1{
@@ -370,6 +380,16 @@ padding-bottom:00px;
     font-size: 20px;
 
   }
+
+  #register_button{
+    line-height: 20px;
+    position: relative;
+    top: 120px;
+    font-size: 13px;
+  }
+
+  
+
 }
 
 .article-font{
