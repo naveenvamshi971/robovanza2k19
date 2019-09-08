@@ -433,6 +433,10 @@
     padding: 10px;
   }
   
+  .fa_color{
+      color: #000;
+  }
+
   .team-card{
    
     border-width: 3px;
