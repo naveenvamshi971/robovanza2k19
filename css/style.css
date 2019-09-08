@@ -21,9 +21,14 @@
 #register_button{
   line-height: 20px;
   position: relative;
-  top: 120px
+  top: 120px;
 }
 
+#oc_button{
+  line-height: 20px;
+  position: relative;
+  padding: 10px;
+}
 
 #loadingg {
 
@@ -449,6 +454,22 @@ h4{
   padding: 20px;
 }
 
+.sponser-card{
+  box-shadow: 0 1px 4px rgba(0,0,0,.04);
+  border-width: 3px;
+  /* border-style: solid; */
+  /* border-image: 
+    linear-gradient(
+ #c0495c , #434a99
+    ) 1 100%; */
+  background-color: transparent;
+  /* width: 355px; */
+  /* height: 450px; */
+  margin: 20px;
+  padding: 20px;
+}
+
+
 
 /* #himamsu{
   clip: rect(0px,200px,200px,0px);
@@ -554,5 +575,11 @@ h4{
   height: 200px;
   width: 200px;
   border-radius: 500px;
+
+}
+
+.sponser-image{
+  height: 400px;
+  width: 400px;
 
 }
