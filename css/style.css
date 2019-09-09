@@ -583,3 +583,11 @@ h4{
   /* width: 400px; */
 
 }
+
+
+
+@media(max-width: 746px){
+  .cfr-image{
+    height: 100px;
+  }
+}
